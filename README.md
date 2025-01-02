@@ -1,9 +1,14 @@
 # About Datasets:
 1 Domain : Finance
+
 2 Project: Bank loan of customers
+
 3 Datasets: Finance_1.xlsx & Finance_2.xlsx
+
 4 Dataset Type: Excel Data
+
 5 Dataset Size: Each Excel file has 39k+ records
+
 6 Tools used: PowerBI,  Mysql
 
 # KPI's:
