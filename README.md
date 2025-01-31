@@ -1,40 +1,83 @@
-# About Datasets:
-1 Domain : Finance
+# 📊 Bank Loan Analysis
 
-2 Project: Bank loan of customers
+# 🏦 Project Overview
 
-3 Datasets: Finance_1.xlsx & Finance_2.xlsx
+This project focuses on analyzing bank loan data to understand loan distribution, repayment trends, and borrower risk assessment. Using Power BI and MySQL, we extract valuable insights to help financial institutions optimize lending strategies and minimize risks.
 
-4 Dataset Type: Excel Data
+# 📂 Dataset Overview
 
-5 Dataset Size: Each Excel file has 39k+ records
+📌 Domain: Finance
 
-6 Tools used: PowerBI,  Mysql
+📌 Project: Bank Loan Customer Analysis
 
-# KPI's:
-1 Year-wise loan amount Stats
+📌 Dataset Files: Finance_1.xlsx & Finance_2.xlsx
 
-2 Grade and sub-grade wise revol_bal
+📌 Data Type: Excel (39K+ records per file)
 
-3 Total Payment for Verified Status Vs Total Payment for Non-Verified Status
+📌 Tools Used: Power BI, MySQL
 
-4 State-wise loan status
+# 📈 Key KPIs
 
-5 Month-wise loan status
+📊 Year-wise Loan Amount Trends – Analyze loan distribution over time.
 
- Get more insights based on your understanding of the data
+📊 Grade & Sub-Grade Wise Revolving Balance (revol_bal) – Assess borrower creditworthiness.
 
-# Process:
-1 Understanding the problem
+📊 Verified vs Non-Verified Borrowers – Compare total payments for both segments.
 
-2 Data Collection
+📊 State-wise Loan Status – Identify regional approval & default trends.
 
-3 Data Cleaning
+📊 Month-wise Loan Status – Uncover seasonal patterns in loan performance.
 
-4 Exploring and analyzing the data
+# 🔍 Additional Insights
 
-5 Interpreting the results
+✔ Loan Default Patterns – Detect high-risk borrowers based on payment behaviour.
+
+✔ Interest Rate Trends – Understand how loan grades affect interest rates.
+
+✔ Customer Demographics – Analyze age, income, and region-wise loan distribution.
+
+# 🔄 Data Processing Workflow
+
+1️⃣ Understanding the Problem – Define business objectives & key financial questions.
+
+2️⃣ Data Collection – Gather data from multiple sources.
+
+3️⃣ Data Cleaning – Handle missing values, remove duplicates, and ensure consistency.
+
+4️⃣ Exploratory Data Analysis (EDA) – Use SQL queries & Power BI for insights.
+
+5️⃣ Interpreting Results – Generate actionable business recommendations.
+
+# 📊 Visualizations & Techniques Used
+
+📌 Power Query & Power Pivot – Data transformation & modeling.
+
+📌 Merging Data & Slicers – Efficient filtering & data integration.
+
+📌 Charts & Dashboards:
+
+✔ Clustered Bar & Column Charts – Loan & borrower trends.
+
+✔ Line Chart & 3D Pie Chart – Loan amount over time.
+
+✔ Stacked Column & Donut Charts – Payment distribution.
+
+✔ Treemap & Stacked Area Chart – Loan status breakdown.
+
+✔ Map Visualization – State-wise loan data.
+
+✔ Matrix, Table & Text Boxes – Data summaries.
+
+✔ Page Navigator & Interactive Dashboard – User-friendly navigation.
 
 
-These data contain Power Query, Power Pivot, Merge data, Clustered Bar Chart, Clustered Column Chart, Line Chart, 3D Pie chart, Dashboard, slicers, timeline, formatting techniques, stacked column chart, Donut chart, Stacked area chart, pie chart, matrix, slicer, treemap, clustered column chart, Map, Dashboard, Page Navigator, card, text box, bar chart, text, stacked bar chart, dashboard, horizontal bars, donut chart, area chart, treemap, slicers, table, image, create database, select count * from, select * from, limit, select year as, group by, order by, inner join on, concat, round, sum, format, desc.
+# 🚀 Business Impact
+
+✔ Better Risk Assessment – Identify high-risk borrowers for improved credit policies.
+
+✔ Optimized Loan Strategies – Personalize loan offerings for different borrower segments.
+
+✔ Enhanced Decision-Making – Use data-driven insights to minimize loan defaults.
+
+# 🔹 Future Scope: Machine Learning Integration for predicting loan defaults and customer repayment behaviour.
 
