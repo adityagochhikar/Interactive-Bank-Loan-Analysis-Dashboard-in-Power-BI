@@ -14,7 +14,7 @@ This project focuses on analyzing bank loan data to understand loan distribution
 
 📌 Data Type: Excel (39K+ records per file)
 
-📌 Tools Used: Power BI, MySQL
+📌 Tools Used: Power BI, MySQL,ETL
 
 # 📈 Key KPIs
 
